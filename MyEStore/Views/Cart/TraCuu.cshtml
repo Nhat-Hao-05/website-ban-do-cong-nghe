@@ -1,0 +1,96 @@
+﻿@model MyEStore.Entities.HoaDon
+@{
+    ViewData["Title"] = "Tra cứu đơn hàng";
+}
+
+<div class="container my-5" style="max-width: 800px; min-height: 450px;">
+    <!-- Khung tìm kiếm -->
+    <div class="card shadow-sm border-0 mb-4 bg-light">
+        <div class="card-body p-4">
+            <h4 class="fw-bold text-primary mb-3 text-center">
+                <i class="bi bi-search me-2"></i>TRA CỨU ĐƠN HÀNG
+            </h4>
+            <form asp-controller="Cart" asp-action="TraCuu" method="get" class="row g-2 justify-content-center">
+                <div class="col-md-8">
+                    <div class="input-group">
+                        <span class="input-group-text bg-white"><i class="bi bi-hash"></i></span>
+                        <input type="number" name="maHd" class="form-control form-control-lg" placeholder="Nhập mã đơn hàng (Ví dụ: 11119)..." required />
+                        <button type="submit" class="btn btn-primary btn-lg px-4 fw-bold">
+                            Tra cứu
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Thông báo nếu không tìm thấy -->
+    @if (ViewBag.Message != null)
+    {
+        <div class="alert alert-warning text-center shadow-sm">
+            <i class="bi bi-exclamation-triangle-fill me-2"></i>@ViewBag.Message
+        </div>
+    }
+
+    <!-- Kết quả hiển thị thông tin đơn hàng -->
+    @if (Model != null)
+    {
+        var tongTien = Model.ChiTietHds?.Sum(ct => ct.SoLuong * ct.DonGia) ?? 0;
+
+        <div class="card border-0 shadow-sm p-4 bg-white rounded-3">
+            <div class="d-flex justify-content-between align-items-center border-bottom pb-3 mb-3">
+                <div>
+                    <h5 class="fw-bold text-primary mb-1">CHI TIẾT ĐƠN HÀNG #@Model.MaHd</h5>
+                    <span class="badge bg-success">Đặt hàng thành công</span>
+                </div>
+                <div class="text-end text-muted small">
+                    <div><i class="bi bi-calendar3 me-1"></i><strong>Ngày đặt:</strong> @Model.NgayDat.ToString("dd/MM/yyyy HH:mm")</div>
+                </div>
+            </div>
+
+            <!-- Thông tin giao hàng -->
+            <div class="row mb-3 small">
+                <div class="col-md-6">
+                    <p class="mb-1"><strong>Khách hàng:</strong> @Model.HoTen</p>
+                    <p class="mb-1"><strong>Địa chỉ:</strong> @Model.DiaChi</p>
+                </div>
+                <div class="col-md-6">
+                    <p class="mb-1"><strong>Thanh toán:</strong> @Model.CachThanhToan</p>
+                    <p class="mb-1"><strong>Ghi chú:</strong> @Model.GhiChu</p>
+                </div>
+            </div>
+
+            <!-- Bảng danh sách sản phẩm -->
+            <div class="table-responsive mb-3">
+                <table class="table table-bordered table-sm align-middle mb-0 small">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Sản phẩm</th>
+                            <th class="text-center">Số lượng</th>
+                            <th class="text-end">Đơn giá</th>
+                            <th class="text-end">Thành tiền</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.ChiTietHds != null)
+                        {
+                            @foreach (var item in Model.ChiTietHds)
+                            {
+                                <tr>
+                                    <td><strong>@(item.MaHhNavigation?.TenHh ?? $"Mã SP: {item.MaHh}")</strong></td>
+                                    <td class="text-center">@item.SoLuong</td>
+                                    <td class="text-end">@item.DonGia.ToString("#,##0") đ</td>
+                                    <td class="text-end fw-bold">@((item.SoLuong * item.DonGia).ToString("#,##0")) đ</td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="text-end">
+                <h5 class="fw-bold text-danger mb-0">TỔNG TIỀN: @tongTien.ToString("#,##0") VNĐ</h5>
+            </div>
+        </div>
+    }
+</div>

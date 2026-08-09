@@ -1,0 +1,62 @@
+﻿@model MyEStore.Models.ViewModels.PaypalTransactionViewModel
+
+@{
+    ViewBag.Title = "Thanh toán thành công";
+    
+    bool isPaypal = Model != null && !string.IsNullOrEmpty(Model.TransactionId);
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg border-0 rounded-4">
+                <div class="card-header bg-success text-white text-center py-4 rounded-top-4">
+                    <i class="bi bi-check-circle-fill display-3"></i>
+                    <h2 class="mt-2">Thanh toán thành công!</h2>
+                </div>
+                <div class="card-body text-center p-5">
+                    <p class="text-muted fs-5 mb-4">Cảm ơn bạn đã tin tưởng mua sắm tại <strong>MyEStore</strong>.</p>
+
+                    <div class="row g-3 justify-content-center">
+                        <div class="col-sm-6 text-sm-end text-muted">Cổng thanh toán:</div>
+                        <div class="col-sm-6 text-sm-start fw-bold text-primary">
+                            @(isPaypal ? "PayPal" : "VNPay")
+                        </div>
+
+                        <div class="col-sm-6 text-sm-end text-muted">Mã đơn hàng:</div>
+                        <div class="col-sm-6 text-sm-start fw-bold">
+                            @(Model?.OrderId ?? Context.Request.Query["orderId"].ToString())
+                        </div>
+
+                        @if (isPaypal)
+                        {
+                            <div class="col-sm-6 text-sm-end text-muted">Mã giao dịch:</div>
+                            <div class="col-sm-6 text-sm-start fw-bold">@Model.TransactionId</div>
+
+                            <div class="col-sm-6 text-sm-end text-muted">Số tiền:</div>
+                            <div class="col-sm-6 text-sm-start fw-bold text-danger">@Model.Amount @Model.Currency</div>
+                        }
+                    </div>
+
+                    <div class="mt-5 p-4 bg-light rounded-3 shadow-sm d-inline-block">
+                        @{
+                            var qrData = isPaypal ? Model.TransactionId : (Model?.OrderId ?? Context.Request.Query["orderId"].ToString());
+                        }
+                        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=@qrData"
+                             alt="QR Code" class="img-thumbnail" />
+                        <p class="mt-2 mb-0 text-muted small"><i class="bi bi-qr-code-scan"></i> Quét mã để tra cứu đơn hàng</p>
+                    </div>
+
+                    <div class="mt-5 d-flex justify-content-center gap-3">
+                        <a asp-controller="Products" asp-action="Index" class="btn btn-primary btn-lg rounded-pill px-4">
+                            <i class="bi bi-shop"></i> Tiếp tục mua sắm
+                        </a>
+                        <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary btn-lg rounded-pill px-4">
+                            Trang chủ
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,146 @@
+﻿@model MyEStore.Entities.KhachHang
+@{
+    ViewBag.Title = "Trang cá nhân";
+}
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+    :root {
+        --luxury-dark: #0f172a;
+        --luxury-accent: #1e5338;
+        --luxury-bg: #f8fafc;
+        --luxury-text-sub: #64748b;
+    }
+
+    body {
+        background-color: var(--luxury-bg);
+        font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+
+    .profile-container {
+        padding: 3rem 1rem;
+        max-width: 900px;
+    }
+
+    .profile-card {
+        border: 1px solid rgba(0, 0, 0, 0.05);
+        border-radius: 20px;
+        background: #ffffff;
+        box-shadow: 0 15px 35px rgba(15, 23, 42, 0.05);
+        overflow: hidden;
+    }
+
+    .profile-header-bg {
+        background: linear-gradient(135deg, #1e5338 0%, #0f172a 100%);
+        height: 140px;
+    }
+
+    .profile-avatar-wrapper {
+        margin-top: -60px;
+        text-align: center;
+    }
+
+    .profile-avatar {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        border: 4px solid #ffffff;
+        object-fit: cover;
+        box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+        background-color: #fff;
+    }
+
+    .profile-name {
+        font-family: 'Playfair Display', serif;
+        font-weight: 700;
+        font-size: 1.75rem;
+        color: var(--luxury-dark);
+    }
+
+    .info-label {
+        font-size: 0.75rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.8px;
+        color: var(--luxury-text-sub);
+        margin-bottom: 0.25rem;
+    }
+
+    .info-value {
+        font-size: 1rem;
+        font-weight: 500;
+        color: #1e293b;
+        background-color: #f8fafc;
+        padding: 0.75rem 1rem;
+        border-radius: 10px;
+        border: 1px solid #e2e8f0;
+    }
+</style>
+
+<div class="container profile-container">
+    <div class="card profile-card">
+
+        <!-- Header Background -->
+        <div class="profile-header-bg"></div>
+
+        <!-- Body -->
+        <div class="card-body px-4 pb-5">
+
+            <!-- Avatar & Name -->
+            <div class="profile-avatar-wrapper mb-4">
+                @{
+                    string avatarPath = string.IsNullOrEmpty(Model.Hinh) ? "/Hinh/KhachHang/default-avatar.png" : $"/Hinh/KhachHang/{Model.Hinh}";
+                }
+                <img src="@avatarPath" alt="@Model.HoTen" class="profile-avatar" onerror="this.src='https://cdn-icons-png.flaticon.com/512/3177/3177440.png'" />
+                <h3 class="profile-name mt-3 mb-1">@Model.HoTen</h3>
+                <span class="badge bg-success-subtle text-success border border-success-subtle px-3 py-1 rounded-pill">
+                    <i class="bi bi-shield-check me-1"></i> Khách hàng thân thiết
+                </span>
+            </div>
+
+            <!-- Chi tiết thông tin -->
+            <div class="row g-3 mt-2">
+
+                <div class="col-md-6">
+                    <div class="info-label"><i class="bi bi-person me-1"></i> Mã tài khoản</div>
+                    <div class="info-value">@Model.MaKh</div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="info-label"><i class="bi bi-envelope me-1"></i> Địa chỉ Email</div>
+                    <div class="info-value">@Model.Email</div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="info-label"><i class="bi bi-telephone me-1"></i> Số điện thoại</div>
+                    <div class="info-value">@(string.IsNullOrEmpty(Model.DienThoai) ? "Chưa cập nhật" : Model.DienThoai)</div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="info-label"><i class="bi bi-gender-ambiguous me-1"></i> Giới tính</div>
+                    <div class="info-value">@(Model.GioiTinh == true ? "Nam" : "Nữ")</div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="info-label"><i class="bi bi-calendar-event me-1"></i> Ngày sinh</div>
+                    <div class="info-value">@Model.NgaySinh.ToString("dd/MM/yyyy")</div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="info-label"><i class="bi bi-geo-alt me-1"></i> Địa chỉ giao hàng</div>
+                    <div class="info-value">@(string.IsNullOrEmpty(Model.DiaChi) ? "Chưa cập nhật" : Model.DiaChi)</div>
+                </div>
+
+            </div>
+
+            <!-- Nút thao tác -->
+            <div class="d-flex justify-content-end gap-2 mt-4 pt-3 border-top">
+                <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary px-4 rounded-pill">
+                    <i class="bi bi-arrow-left me-1"></i> Về trang chủ
+                </a>
+            </div>
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://nadene-unsalted-edyth.ngrok-free.dev/sitemap.xml

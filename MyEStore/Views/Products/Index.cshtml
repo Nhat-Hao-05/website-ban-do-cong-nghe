@@ -1,0 +1,54 @@
+﻿@model IEnumerable<MyEStore.Models.HangHoaVM>
+@{
+    ViewData["Title"] = "Danh sách hàng hóa";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4 text-primary"><i class="bi bi-box-seam"></i> Danh sách hàng hóa</h1>
+
+    <form asp-controller="Products" asp-action="Index" method="get" class="mb-4">
+        <div class="input-group" style="max-width: 500px;">
+            <input type="text" name="searchString" value="@ViewData["CurrentFilter"]" class="form-control" placeholder="Nhập tên sản phẩm cần tìm..." />
+            <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+            <!-- Nút reset để quay lại danh sách ban đầu -->
+            <a asp-action="Index" class="btn btn-outline-secondary">Xóa lọc</a>
+        </div>
+    </form>
+
+    <div class="row">
+        @foreach (var hh in Model)
+        {
+            <div class="col-md-3 col-sm-6 mb-4">
+                <div class="card h-100 shadow-sm">
+                    <!-- Hình sản phẩm -->
+                    <img src="@hh.Hinh" alt="@hh.TenHh"
+                         class="card-img-top" style="height:200px; object-fit:cover;" />
+
+                    <!-- Thông tin sản phẩm -->
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title text-success fw-bold">@hh.TenHh</h5>
+                        <p class="card-text text-danger fw-bold">
+                            @hh.DonGia.ToString("N0") VNĐ
+                        </p>
+
+                        <div class="mt-auto">
+                            <a asp-controller="Products"
+                               asp-action="Details"
+                               asp-route-ten="@hh.TenHh.Replace(" ", "-")"
+                               asp-route-id="@hh.MaHh"
+                               class="btn btn-outline-info btn-sm me-2">
+                                <i class="bi bi-info-circle"></i> Chi tiết
+                            </a>
+                            <a asp-action="AddToCart"
+                               asp-controller="Cart"
+                               asp-route-id="@hh.MaHh"
+                               class="btn btn-primary btn-sm">
+                                <i class="bi bi-cart-plus"></i> Mua
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

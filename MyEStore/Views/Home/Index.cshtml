@@ -1,0 +1,253 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<style>
+    /* HERO BANNER SECTION */
+    .hero-section {
+        padding: 4rem 0 3.5rem 0;
+        background: linear-gradient(180deg, rgba(249,246,240,1) 0%, rgba(243,236,225,0.7) 100%);
+    }
+
+    .hero-title {
+        font-family: 'Playfair Display', serif;
+        font-size: 3.5rem;
+        font-weight: 700;
+        color: #1a202c;
+        line-height: 1.2;
+        margin-bottom: 1rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.15rem;
+        color: #4a5568;
+        margin-bottom: 2rem;
+        font-weight: 400;
+    }
+
+    /* Buttons */
+    .btn-luxury-primary {
+        background-color: var(--luxury-accent);
+        color: #ffffff;
+        font-weight: 600;
+        padding: 0.85rem 2.2rem;
+        border-radius: 8px;
+        border: none;
+        transition: all 0.3s ease;
+        text-decoration: none;
+    }
+
+        .btn-luxury-primary:hover {
+            background-color: var(--luxury-accent-hover);
+            color: #ffffff;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(30, 83, 56, 0.25);
+        }
+
+    .btn-luxury-outline {
+        background-color: transparent;
+        color: #2d3748;
+        font-weight: 600;
+        padding: 0.85rem 2.2rem;
+        border-radius: 8px;
+        border: 1px solid #718096;
+        transition: all 0.3s ease;
+        text-decoration: none;
+    }
+
+        .btn-luxury-outline:hover {
+            border-color: #1a202c;
+            background-color: rgba(0,0,0,0.03);
+            color: #1a202c;
+        }
+
+    /* Khung Trưng Bày Ảnh Sản Phẩm (Podium Studio) */
+    .hero-podium {
+        background: #eae2d6;
+        border-radius: 28px;
+        padding: 2.5rem;
+        box-shadow: inset 0 0 40px rgba(0,0,0,0.03);
+        width: 100%;
+        max-width: 480px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .hero-img {
+        max-width: 100%;
+        height: auto;
+        max-height: 340px;
+        object-fit: contain;
+        filter: drop-shadow(0 15px 25px rgba(0,0,0,0.12));
+        transition: transform 0.4s ease;
+    }
+
+        .hero-img:hover {
+            transform: scale(1.04);
+        }
+
+    /* TRUST BADGES STRIP */
+    .trust-badges-card {
+        background: #ffffff;
+        border-radius: 18px;
+        padding: 1.75rem 2rem;
+        box-shadow: 0 15px 35px rgba(0,0,0,0.04);
+        border: 1px solid rgba(0,0,0,0.04);
+        margin-top: -35px;
+        position: relative;
+        z-index: 10;
+    }
+
+    .trust-item {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .trust-icon {
+        width: 46px;
+        height: 46px;
+        border-radius: 12px;
+        background-color: #f1f5f9;
+        color: var(--luxury-accent);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 1.35rem;
+        flex-shrink: 0;
+    }
+
+    .trust-title {
+        font-weight: 700;
+        font-size: 0.95rem;
+        margin-bottom: 2px;
+        color: #1e293b;
+    }
+
+    .trust-desc {
+        font-size: 0.8rem;
+        color: #64748b;
+        margin: 0;
+    }
+
+    /* FLASH SALE SECTION */
+    .flash-sale-section {
+        margin-top: 4rem;
+        background: #ffffff;
+        border-radius: 24px;
+        padding: 2.5rem;
+        border: 1px solid rgba(0,0,0,0.05);
+    }
+
+    .flash-sale-header {
+        font-family: 'Playfair Display', serif;
+        font-weight: 700;
+        font-size: 2rem;
+        letter-spacing: 1px;
+        color: #1e293b;
+    }
+
+    .countdown-box {
+        background: #1e293b;
+        color: #ffffff;
+        padding: 0.4rem 0.8rem;
+        border-radius: 8px;
+        font-weight: 700;
+        font-size: 0.85rem;
+    }
+
+    /* Product Card demo */
+    .product-card {
+        border: 1px solid #f1f5f9;
+        border-radius: 16px;
+        padding: 1.25rem;
+        background: #ffffff;
+        transition: all 0.3s ease;
+        text-align: center;
+    }
+
+        .product-card:hover {
+            box-shadow: 0 15px 30px rgba(0,0,0,0.07);
+            transform: translateY(-4px);
+        }
+
+    .product-img {
+        max-height: 180px;
+        object-fit: contain;
+        margin-bottom: 1rem;
+    }
+</style>
+
+<!-- 1. HERO BANNER SECTION -->
+<section class="hero-section">
+    <div class="container">
+        <div class="row align-items-center gy-5">
+
+            <!-- Tiêu đề & Nút bấm bên trái -->
+            <div class="col-lg-6 text-center text-lg-start">
+                <!-- 1. Tiêu đề thương hiệu mới VH-EStore -->
+                <h1 class="hero-title fw-bold display-5 text-dark mb-3">Chào mừng đến <span class="text-warning">VH-EStore</span></h1>
+                <p class="hero-subtitle text-muted fs-5 mb-4">Thế giới điện thoại, laptop & phụ kiện công nghệ chính hãng - Thanh toán an toàn, nhanh chóng.</p>
+
+                <!-- 2. Nút bấm sử dụng Bootstrap 5 chuẩn (Rõ nét 100%) -->
+                <div class="d-flex flex-wrap justify-content-center justify-content-lg-start gap-3">
+                    <!-- Nút Xem sản phẩm -->
+                    <a asp-controller="Products" asp-action="Index" class="btn btn-warning text-dark fw-bold px-4 py-2 rounded-3 shadow-sm">
+                        <i class="bi bi-grid-fill me-2"></i>Xem sản phẩm
+                    </a>
+                    <!-- Nút Giỏ hàng -->
+                    <a asp-controller="Cart" asp-action="Index" class="btn btn-outline-dark fw-semibold px-4 py-2 rounded-3">
+                        <i class="bi bi-cart3 me-2"></i>Giỏ hàng
+                    </a>
+                </div>
+            </div>
+
+            <!-- Khung ảnh trưng bày gấu bông bên phải -->
+            <div class="col-lg-6">
+                <div class="hero-podium">
+                    <!-- Thay link đường dẫn ảnh của bạn vào src bên dưới -->
+                    <img src="~/Hinh/Loai11.jpeg" class="img-fluid rounded shadow" alt="Banner MyEStore">
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- 2. TRUST BADGES STRIP -->
+<div class="container">
+    <div class="trust-badges-card">
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="trust-item">
+                    <div class="trust-icon"><i class="bi bi-shield-check"></i></div>
+                    <div>
+                        <h6 class="trust-title">Sản phẩm chất lượng</h6>
+                        <p class="trust-desc">Được lựa chọn kỹ lượng, an toàn & bền bỉ.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="trust-item">
+                    <div class="trust-icon"><i class="bi bi-credit-card-2-front"></i></div>
+                    <div>
+                        <h6 class="trust-title">Thanh toán bảo mật VNPAY</h6>
+                        <p class="trust-desc">Sản phẩm nâng cao cảm giác thoải mái, tiện lợi.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="trust-item">
+                    <div class="trust-icon"><i class="bi bi-truck"></i></div>
+                    <div>
+                        <h6 class="trust-title">Giao hàng nhanh</h6>
+                        <p class="trust-desc">Thiết kế tối giản, tinh tế, đem đến cảm giác an tâm.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

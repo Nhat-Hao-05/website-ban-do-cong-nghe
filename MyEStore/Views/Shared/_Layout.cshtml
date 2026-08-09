@@ -1,0 +1,433 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - VH-EStore Thế Giới Công Nghệ</title>
+
+    <!-- Bootstrap 5 CSS & Bootstrap Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <!-- Google Fonts: Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+            :root {
+                --mpt-navy: #0f172a;
+                --mpt-navy-light: #1e293b;
+                --mpt-orange: #f97316;
+                --mpt-orange-hover: #ea580c;
+            }
+
+            body {
+                font-family: 'Inter', sans-serif;
+                background-color: #f8fafc;
+                color: #334155;
+            }
+
+            /* Topbar & Header */
+            .top-bar {
+                background-color: var(--mpt-navy);
+                font-size: 0.85rem;
+            }
+
+            .main-header {
+                background-color: #ffffff;
+                border-bottom: 1px solid #e2e8f0;
+            }
+
+            /* Navigation */
+            .custom-navbar {
+                background-color: var(--mpt-navy-light);
+            }
+
+                .custom-navbar .nav-link {
+                    color: #cbd5e1 !important;
+                    font-weight: 500;
+                    padding: 0.75rem 1.25rem !important;
+                    transition: all 0.2s;
+                }
+
+                    .custom-navbar .nav-link:hover,
+                    .custom-navbar .nav-link.active {
+                        color: #ffffff !important;
+                        background-color: var(--mpt-orange);
+                    }
+
+            /* FIX DROPDOWN: Rê chuột tự động mở Menu trên Máy tính */
+            @@media (min-width: 992px) {
+                .custom-navbar .dropdown:hover .dropdown-menu {
+                    display: block !important;
+                    margin-top: 0;
+                }
+            }
+
+            /* Buttons & Badges */
+            .btn-mpt-orange {
+                background-color: var(--mpt-orange);
+                color: #ffffff;
+                font-weight: 600;
+                border: none;
+            }
+
+                .btn-mpt-orange:hover {
+                    background-color: var(--mpt-orange-hover);
+                    color: #ffffff;
+                }
+
+            /* Footer */
+            footer {
+                background-color: var(--mpt-navy);
+                color: #94a3b8;
+            }
+
+                footer h5 {
+                    color: #ffffff;
+                    font-weight: 600;
+                    margin-bottom: 1.25rem;
+                }
+
+                footer a {
+                    color: #94a3b8;
+                    text-decoration: none;
+                    transition: color 0.2s;
+                }
+
+                    footer a:hover {
+                        color: var(--mpt-orange);
+                    }
+
+            /* Floating Contact Buttons */
+            .floating-contact {
+                position: fixed;
+                bottom: 20px;
+                right: 20px;
+                z-index: 999;
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            .btn-float {
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                color: #fff;
+                font-size: 1.4rem;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+                transition: transform 0.2s;
+            }
+
+                .btn-float:hover {
+                    transform: scale(1.1);
+                    color: #fff;
+                }
+
+            .btn-zalo {
+                background-color: #0088FF;
+            }
+
+            .btn-phone {
+                background-color: #22c55e;
+            }
+
+            .dropdown:hover > .dropdown-menu {
+                display: block !important;
+                margin-top: 0;
+            }
+            /* 1. Ép Menu dính liền với nút bấm (xóa khoảng hở) */
+            .dropdown .dropdown-menu {
+                margin-top: 0 !important;
+            }
+
+            /* 2. Tạo một cầu nối tàng hình phía trên menu để chuột không bị rớt */
+            .dropdown-menu::before {
+                content: "";
+                position: absolute;
+                top: -10px;
+                left: 0;
+                right: 0;
+                height: 10px;
+                background: transparent;
+            }
+
+            /* 3. Giữ Menu luôn mở khi rê chuột vào Nút HOẶC vào Bảng Menu */
+            .dropdown:hover > .dropdown-menu {
+                display: block !important;
+            }
+    </style>
+    @await RenderSectionAsync("MetaTags", required: false)
+</head>
+<body class="d-flex flex-column min-vh-100">
+
+    <!-- 1. TOPBAR -->
+    <div class="top-bar text-light py-2">
+        <div class="container d-flex justify-content-between align-items-center">
+            <div class="d-none d-md-flex gap-4">
+                <span><i class="bi bi-telephone-fill text-warning me-1"></i> Hotline: <strong>0975 701 357</strong></span>
+                <span><i class="bi bi-envelope-fill text-warning me-1"></i> Email: VHStore@gmail.com</span>
+            </div>
+            <div class="ms-auto d-flex gap-3">
+                <a href="#" class="text-light text-decoration-none"><i class="bi bi-facebook"></i></a>
+                <a href="#" class="text-light text-decoration-none"><i class="bi bi-youtube"></i></a>
+                <a href="#" class="text-light text-decoration-none"><i class="bi bi-linkedin"></i></a>
+            </div>
+        </div>
+    </div>
+
+    <!-- 2. MAIN HEADER -->
+    <header class="main-header py-3">
+        <div class="container">
+            <div class="row align-items-center g-3">
+                <!-- Logo -->
+                <div class="col-6 col-lg-3">
+                    <a asp-controller="Home" asp-action="Index" class="text-decoration-none d-flex align-items-center gap-2">
+                        <div class="bg-warning text-dark px-3 py-2 rounded-3 fw-bold fs-4 shadow-sm">VH</div>
+                        <div>
+                            <span class="fw-bold fs-4 text-dark d-block leading-none">VH-EStore</span>
+                            <small class="text-muted fs-7">Shopping Online</small>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Thanh tìm kiếm -->
+                <div class="col-12 col-lg-6 order-3 order-lg-2">
+                    <form asp-controller="Products" asp-action="Index" method="get" class="input-group ms-auto" style="max-width: 500px;">
+                        <input type="text"
+                               name="searchString"
+                               value="@ViewData["CurrentFilter"]"
+                               class="form-control border-warning"
+                               placeholder="Tìm kiếm điện thoại, laptop, đồng hồ thông minh..." />
+
+                        <button class="btn btn-warning text-white px-4" type="submit">
+                            <i class="bi bi-search"></i>
+                        </button>
+                    </form>
+                </div>
+
+                <!-- Tài khoản & Giỏ hàng -->
+                <div class="col-6 col-lg-3 order-2 order-lg-3 text-end d-flex justify-content-end gap-3 align-items-center">
+                    <a asp-controller="Cart" asp-action="Index" class="btn btn-outline-dark position-relative py-2">
+                        <i class="bi bi-cart3 fs-5"></i>
+                        <span class="d-none d-md-inline ms-1 fw-semibold">Giỏ hàng</span>
+                        <span class="badge bg-danger rounded-circle ms-1">0</span>
+                    </a>
+
+                    @* KHỐI KIỂM TRẢ ĐĂNG NHẬP VÀ HIỂN THỊ MENU TÀI KHOẢN *@
+                    @if (User.Identity != null && User.Identity.IsAuthenticated)
+                    {
+                        <!-- DÀNH CHO USER ĐÃ ĐĂNG NHẬP -->
+                        <div class="dropdown">
+                            <button class="btn btn-dark py-2 dropdown-toggle shadow-sm" type="button" id="userMenu" data-bs-toggle="dropdown" aria-expanded="false">
+                                <i class="bi bi-person-circle me-1"></i>
+                                <span class="d-none d-md-inline">Hi, @User.Identity.Name</span>
+                            </button>
+
+                            <ul class="dropdown-menu dropdown-menu-end shadow border-0 mt-2" aria-labelledby="userMenu" style="z-index: 1050;">
+                                <!-- 1. Hồ sơ cá nhân (Profile) -->
+                                <li>
+                                    <a class="dropdown-item py-2" asp-controller="Account" asp-action="Profile">
+                                        <i class="bi bi-person-vcard text-primary me-2"></i>Thông tin cá nhân
+                                    </a>
+                                </li>
+
+                                <!-- 2. Quản lý đơn hàng đã đặt -->
+                                <li>
+                                    <a class="dropdown-item" asp-controller="Cart" asp-action="DonHang">
+                                        <i class="bi bi-bag-check me-2"></i>Đơn hàng của tôi
+                                    </a>
+                                </li>
+
+                                <!-- 3. Đổi mật khẩu -->
+                                <li>
+                                    <a class="dropdown-item py-2" asp-controller="Account" asp-action="ChangePassword">
+                                        <i class="bi bi-shield-lock text-warning me-2"></i>Đổi mật khẩu
+                                    </a>
+                                </li>
+
+                                <!-- Nếu là Admin thì hiện thêm lối tắt Quản trị -->
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <li><hr class="dropdown-divider"></li>
+                                    <li>
+                                        <a class="dropdown-item py-2 text-primary fw-bold" asp-controller="Admin" asp-action="ManagerUsers">
+                                            <i class="bi bi-speedometer2 me-2"></i>Trang quản trị (Admin)
+                                        </a>
+                                    </li>
+                                }
+
+                                <li><hr class="dropdown-divider"></li>
+
+                                <!-- 4. Đăng xuất -->
+                                <li>
+                                    <a class="dropdown-item py-2 text-danger" asp-controller="Account" asp-action="Logout">
+                                        <i class="bi bi-box-arrow-right me-2"></i>Đăng xuất
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    }
+                    else
+                    {
+                        <!-- CHƯA ĐĂNG NHẬP -->
+                        <a asp-controller="Account" asp-action="Login" class="btn btn-dark py-2">
+                            <i class="bi bi-person-circle me-1"></i>
+                            <span class="d-none d-md-inline">Tài khoản</span>
+                        </a>
+                    }
+                   
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- 3. NAVIGATION MENU -->
+    <nav class="navbar navbar-expand-lg custom-navbar p-0 sticky-top">
+        <div class="container">
+            <button class="navbar-toggler my-2 bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#mainMenu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mainMenu">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" asp-controller="Home" asp-action="Index"><i class="bi bi-house-door me-1"></i> Trang chủ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="About">Giới thiệu</a>
+                    </li>
+
+                    <!-- DROPDOWN SẢN PHẨM -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="productDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Sản phẩm & Thiết bị
+                        </a>
+                        <ul class="dropdown-menu shadow border-0" aria-labelledby="productDropdown">
+                            <li>
+                                <a class="dropdown-item py-2" asp-controller="Products" asp-action="Category" asp-route-id="1000">
+                                    <i class="bi bi-phone text-warning me-2"></i>Điện thoại thông minh
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item py-2" asp-controller="Products" asp-action="Category" asp-route-id="1001">
+                                    <i class="bi bi-laptop text-warning me-2"></i>Laptop & Máy tính
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item py-2" asp-controller="Products" asp-action="Category" asp-route-id="1002">
+                                    <i class="bi bi-smartwatch text-warning me-2"></i>Đồng hồ thông minh
+                                </a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item py-2" asp-controller="Products" asp-action="Category" asp-route-id="1003">
+                                    <i class="bi bi-camera text-warning me-2"></i>Máy Ảnh
+                                </a>
+                            </li>
+                            <li><hr class="dropdown-divider"></li>
+                            <li>
+                                <a class="dropdown-item py-2 fw-bold text-warning" asp-controller="Products" asp-action="Index">
+                                    <i class="bi bi-grid-fill me-2"></i>Xem tất cả sản phẩm
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" asp-controller="Home" asp-action="Services">Dịch vụ & Bảo hành</a>
+                    </li>
+                    <a class="nav-link" asp-controller="Cart" asp-action="TraCuu">
+                        <i class="bi bi-search me-1"></i>Tra cứu đơn hàng
+                    </a>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 4. NỘI DUNG CHÍNH -->
+    <main role="main" class="flex-grow-1">
+        @RenderBody()
+    </main>
+
+    <!-- 5. FOOTER -->
+    <footer class="bg-dark text-white pt-5 pb-3">
+        <div class="container">
+            <div class="row">
+
+                <!-- Cột 1: Thông tin thương hiệu -->
+                <div class="col-md-4 mb-4">
+                    <h5 class="fw-bold text-warning mb-3">VH-EStore</h5>
+                    <p class="text-secondary small mb-2">Thế giới công nghệ chính hãng - Cung cấp sản phẩm chất lượng cao, bảo hành uy tín và hỗ trợ tận tâm.</p>
+                    <p class="text-secondary small mb-1"><i class="bi bi-telephone-fill me-2 text-warning"></i>Hotline: 0975 701 357</p>
+                    <p class="text-secondary small"><i class="bi bi-envelope-fill me-2 text-warning"></i>Email: VHStore@gmail.com</p>
+                </div>
+
+                <!-- Cột 2: Danh Mục -->
+                <div class="col-md-4 mb-4">
+                    <h5 class="fw-bold mb-3">Danh Mục</h5>
+                    <ul class="list-unstyled">
+                        <!-- Điện Thoại là 1000 -->
+                        <li class="mb-2">
+                            <a asp-controller="Products" asp-action="Category" asp-route-id="1000" class="text-secondary text-decoration-none link-light">Điện Thoại</a>
+                        </li>
+
+                        <!-- Laptop là 1001 -->
+                        <li class="mb-2">
+                            <a asp-controller="Products" asp-action="Category" asp-route-id="1001" class="text-secondary text-decoration-none link-light">Laptop</a>
+                        </li>
+
+                      
+                        <li class="mb-2">
+                            <a asp-controller="Products" asp-action="Category" asp-route-id="1002" class="text-secondary text-decoration-none link-light">Đồng Hồ</a>
+                        </li>
+                        <li class="mb-2">
+                            <a asp-controller="Products" asp-action="Category" asp-route-id="1003" class="text-secondary text-decoration-none link-light">Máy Ảnh</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Cột 3: Hỗ Trợ -->
+                <div class="col-md-4 mb-4">
+                    <h5 class="fw-bold mb-3">Hỗ Trợ</h5>
+                    <ul class="list-unstyled">
+                        <li class="mb-2">
+                            <a asp-controller="Home" asp-action="Services" class="text-secondary text-decoration-none link-light">Chính sách bảo hành</a>
+                        </li>
+                        <li class="mb-2">
+                            <a asp-controller="Home" asp-action="PaymentGuide" class="text-secondary text-decoration-none link-light">Hướng dẫn thanh toán</a>
+                        </li>
+                        <li class="mb-2">
+                            <a asp-controller="Home" asp-action="ShippingPolicy" class="text-secondary text-decoration-none link-light">Chính sách vận chuyển</a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+
+            <hr class="border-secondary my-3" />
+
+            <div class="text-center text-secondary small">
+                © 2026 <strong>VH-EStore</strong>. Tất cả quyền được bảo lưu.
+            </div>
+        </div>
+    </footer>
+
+    <!-- 6. NÚT LIÊN HỆ NỔI -->
+    <div class="floating-contact">
+        <a href="https://zalo.me/0975701357" target="_blank" class="btn-float btn-zalo" title="Chat Zalo">
+            <i class="bi bi-chat-fill"></i>
+        </a>
+        <a href="tel:0975701357" class="btn-float btn-phone" title="Gọi Hotline">
+            <i class="bi bi-telephone-fill"></i>
+        </a>
+    </div>
+
+    <!-- Bootstrap 5 JS Bundle -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/bootstrap.bundle.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

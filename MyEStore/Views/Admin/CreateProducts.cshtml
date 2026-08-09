@@ -1,0 +1,94 @@
+﻿@model MyEStore.Entities.HangHoa
+@{
+    Layout = "_LayoutAdmin";
+    ViewBag.Title = "Thêm hàng hóa mới";
+}
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Thêm hàng hóa mới</h6>
+    </div>
+    <div class="card-body">
+        <form asp-controller="Admin" asp-action="CreateProducts" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+            <div class="row">
+                <!-- Cột bên trái: Thông tin chính -->
+                <div class="col-md-8">
+                    <div class="mb-3">
+                        <label class="form-label fw-bold">Tên hàng hóa *</label>
+                        <input asp-for="TenHh" class="form-control" required placeholder="Ví dụ: iPhone 15 Pro Max 256GB" />
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label fw-bold">Loại sản phẩm *</label>
+                            <select asp-for="MaLoai" class="form-select" required>
+                                <option value="">-- Chọn loại sản phẩm --</option>
+                                @if (ViewBag.Loai != null)
+                                {
+                                    foreach (var item in (List<MyEStore.Entities.Loai>)ViewBag.Loai)
+                                    {
+                                        <option value="@item.MaLoai">@item.TenLoai</option>
+                                    }
+                                }
+                            </select>
+                        </div>
+
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label fw-bold">Nhà cung cấp *</label>
+                            <select asp-for="MaNcc" class="form-select" required>
+                                <option value="">-- Chọn nhà cung cấp --</option>
+                                @if (ViewBag.NhaCungCap != null)
+                                {
+                                    foreach (var ncc in (List<MyEStore.Entities.NhaCungCap>)ViewBag.NhaCungCap)
+                                    {
+                                        <option value="@ncc.MaNcc">@ncc.TenCongTy</option>
+                                    }
+                                }
+                                else
+                                {
+                                    <option value="AP">Apple (AP)</option>
+                                    <option value="SS">Samsung (SS)</option>
+                                    <option value="XM">Xiaomi (XM)</option>
+                                    <option value="OP">OPPO (OP)</option>
+                                    <option value="DE">Dell (DE)</option>
+                                    <option value="AS">ASUS (AS)</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label fw-bold">Đơn giá (VNĐ) *</label>
+                            <input asp-for="DonGia" type="number" class="form-control" required placeholder="29980000" />
+                        </div>
+
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label fw-bold">Đơn vị tính</label>
+                            <input asp-for="MoTaDonVi" class="form-control" value="Chiếc" placeholder="Chiếc / Cái / Bộ" />
+                        </div>
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label fw-bold">Mô tả sản phẩm</label>
+                        <textarea asp-for="MoTa" class="form-control" rows="4" placeholder="Nhập cấu hình, đặc điểm nổi bật..."></textarea>
+                    </div>
+                </div>
+
+                <!-- Cột bên phải: Upload Ảnh -->
+                <div class="col-md-4">
+                    <div class="mb-3">
+                        <label class="form-label fw-bold">Hình ảnh sản phẩm</label>
+                        <input type="file" name="Hinh" class="form-control" accept="image/*" />
+                    </div>
+                </div>
+            </div>
+
+            <hr />
+            <button type="submit" class="btn btn-success"><i class="bi bi-plus-circle"></i> Thêm mới</button>
+            <a asp-action="ManagerProducts" class="btn btn-secondary">Hủy bỏ</a>
+        </form>
+    </div>
+</div>

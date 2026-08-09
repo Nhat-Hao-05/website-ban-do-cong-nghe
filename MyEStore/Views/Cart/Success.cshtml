@@ -1,0 +1,124 @@
+﻿@model MyEStore.Entities.HoaDon
+@{
+    ViewData["Title"] = "Đặt hàng thành công";
+    var tongTien = Model.ChiTietHds?.Sum(ct => ct.SoLuong * ct.DonGia) ?? 0;
+    var phiVanChuyen = tongTien >= 2000000 ? 0 : 30000;
+    var thanhTien = tongTien + phiVanChuyen;
+}
+
+<div class="container my-5" style="max-width: 750px;">
+    <div class="text-center mb-4">
+        <i class="bi bi-check-circle-fill text-success" style="font-size: 4rem;"></i>
+        <h2 class="fw-bold text-success mt-2">Đặt Hàng Thành Công!</h2>
+        <p class="text-muted">Cảm ơn bạn đã mua hàng. Đơn hàng <strong>#@Model.MaHd</strong> đã được ghi nhận.</p>
+    </div>
+
+    <!-- KHU VỰC HIỂN THỊ PHƯƠNG THỨC THANH TOÁN (DEMO) -->
+    <div class="card border-0 shadow-sm mb-4 bg-light">
+        <div class="card-body p-4 text-center">
+
+            @if (Model.CachThanhToan == "BankTransfer")
+            {
+                <h5 class="fw-bold text-primary mb-2">
+                    <i class="bi bi-qr-code-scan me-2"></i>Thanh Toán Chuyển Khoản (VietQR)
+                </h5>
+                <p class="small text-muted mb-3">Vui lòng quét mã QR dưới đây để hoàn tất thanh toán đơn hàng:</p>
+
+                <!-- Mã VietQR Tự Động Theo Số Tiền Đơn Hàng -->
+                <div class="my-2">
+                    <img src="https://img.vietqr.io/image/MB-0975701357-compact2.png?amount=@thanhTien&addInfo=VHSTORE%20THANHTOAN%20HD@Model.MaHd"
+                         class="img-fluid rounded border shadow-sm bg-white p-2" style="max-width: 240px;" alt="Mã VietQR" />
+                </div>
+
+                <div class="badge bg-success mt-2 p-2">
+                    <i class="bi bi-check-circle me-1"></i>Hệ thống tự động xác nhận sau khi nhận tiền
+                </div>
+            }
+            else if (Model.CachThanhToan == "EWallet")
+            {
+                <h5 class="fw-bold text-danger mb-2">
+                    <i class="bi bi-wallet2 me-2"></i>Thanh Toán Ví Điện Tử (MoMo / VNPay)
+                </h5>
+                <div class="my-3">
+                    <span class="badge bg-success p-2 fs-6">
+                        <i class="bi bi-shield-check me-1"></i>Đã thanh toán thành công qua Ví Điện Tử
+                    </span>
+                </div>
+                <p class="small text-muted mb-0">Mã giao dịch MoMo/VNPay: <strong>VHESTORE-@(DateTime.Now.Ticks.ToString().Substring(10, 8))</strong></p>
+            }
+            else if (Model.CachThanhToan == "Installment")
+            {
+                <h5 class="fw-bold text-warning text-dark mb-2">
+                    <i class="bi bi-credit-card-2-front me-2"></i>Thanh Toán Thẻ Tín Dụng / Trả Góp 0%
+                </h5>
+                <div class="my-3">
+                    <span class="badge bg-success p-2 fs-6">
+                        <i class="bi bi-check-lg me-1"></i>Giao dịch thẻ hợp lệ - Đã xác nhận trả góp
+                    </span>
+                </div>
+                <p class="small text-muted mb-0">Thẻ sử dụng: <strong>**** **** **** 8888 (VISA/Mastercard)</strong></p>
+            }
+            else
+            {
+                <h5 class="fw-bold text-secondary mb-2">
+                    <i class="bi bi-cash-stack me-2"></i>Thanh Toán Khi Nhận Hàng (COD)
+                </h5>
+                <p class="small text-muted mb-0">
+                    Bạn vui lòng chuẩn bị số tiền <strong>@thanhTien.ToString("#,##0") VNĐ</strong> khi shipper giao hàng đến.
+                </p>
+            }
+
+        </div>
+    </div>
+
+    <!-- Thông tin đơn hàng tóm tắt -->
+    <div class="card border-0 shadow-sm p-4">
+        <h5 class="fw-bold mb-3 border-bottom pb-2">HÓA ĐƠN BÁN HÀNG</h5>
+        <div class="row mb-3 small">
+            <div class="col-6">
+                <div><strong>Người nhận:</strong> @Model.HoTen</div>
+                <div><strong>Địa chỉ:</strong> @Model.DiaChi</div>
+            </div>
+            <div class="col-6 text-end">
+                <div><strong>Ngày đặt:</strong> @Model.NgayDat.ToString("dd/MM/yyyy HH:mm")</div>
+                <div><strong>Ghi chú:</strong> @Model.GhiChu</div>
+            </div>
+        </div>
+
+        <table class="table table-sm align-middle small">
+            <thead class="table-light">
+                <tr>
+                    <th>Sản phẩm</th>
+                    <th class="text-center">Số lượng</th>
+                    <th class="text-end">Đơn giá</th>
+                    <th class="text-end">Thành tiền</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.ChiTietHds != null)
+                {
+                    @foreach (var item in Model.ChiTietHds)
+                    {
+                        <tr>
+                            <td>@(item.MaHhNavigation?.TenHh ?? $"Sản phẩm #{item.MaHh}")</td>
+                            <td class="text-center">@item.SoLuong</td>
+                            <td class="text-end">@item.DonGia.ToString("#,##0") đ</td>
+                            <td class="text-end fw-bold">@((item.SoLuong * item.DonGia).ToString("#,##0")) đ</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+
+        <div class="text-end mt-2">
+            <div>Phí vận chuyển: <strong>@(phiVanChuyen == 0 ? "Miễn phí" : phiVanChuyen.ToString("#,##0") + " đ")</strong></div>
+            <h4 class="fw-bold text-danger mt-1">Tổng cộng: @thanhTien.ToString("#,##0") VNĐ</h4>
+        </div>
+    </div>
+
+    <div class="text-center mt-4">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-primary px-4 fw-bold">
+            <i class="bi bi-house-door me-2"></i>Trở về trang chủ
+        </a>
+    </div>
+</div>

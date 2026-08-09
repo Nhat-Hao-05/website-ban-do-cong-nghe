@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "EmailController",
+    "Method": "SendMailchimp",
+    "RelativePath": "email/send-mailchimp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "MailchimpEmailPayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

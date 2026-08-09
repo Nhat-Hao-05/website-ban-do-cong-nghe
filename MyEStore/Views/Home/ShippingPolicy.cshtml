@@ -1,0 +1,70 @@
+﻿@{
+    ViewData["Title"] = "Chính sách vận chuyển - VH-EStore";
+}
+
+<div class="container my-5">
+    <div class="text-center mb-5">
+        <h1 class="fw-bold text-primary"><i class="bi bi-truck me-2"></i>Chính Sách Vận Chuyển & Giao Hàng</h1>
+        <p class="text-muted">Giao hàng siêu tốc - Đóng gói an toàn - Đồng kiểm tận tay</p>
+    </div>
+
+    <div class="row g-4 mb-5">
+        <!-- Thời gian giao -->
+        <div class="col-md-4">
+            <div class="p-4 border rounded-3 bg-light text-center h-100">
+                <i class="bi bi-speedometer2 text-primary display-4 mb-3 d-block"></i>
+                <h5 class="fw-bold">Giao Hàng Siêu Tốc</h5>
+                <p class="text-muted small">Nội thành TP.HCM: Giao hỏa tốc trong 2 giờ.<br />Các tỉnh thành khác: Từ 1 - 3 ngày làm việc.</p>
+            </div>
+        </div>
+
+        <!-- Cước phí -->
+        <div class="col-md-4">
+            <div class="p-4 border rounded-3 bg-light text-center h-100">
+                <i class="bi bi-box-seam text-success display-4 mb-3 d-block"></i>
+                <h5 class="fw-bold">Miễn Phí Vận Chuyển</h5>
+                <p class="text-muted small">Freeship toàn quốc cho mọi đơn hàng có giá trị từ <strong>2.000.000 VNĐ</strong> trở lên.</p>
+            </div>
+        </div>
+
+        <!-- Quy trình kiểm hàng -->
+        <div class="col-md-4">
+            <div class="p-4 border rounded-3 bg-light text-center h-100">
+                <i class="bi bi-shield-check text-warning display-4 mb-3 d-block"></i>
+                <h5 class="fw-bold">Đồng Kiểm Khi Nhận</h5>
+                <p class="text-muted small">Khách hàng được quyền mở seal thùng carton kiểm tra ngoại quan máy và phụ kiện trước khi ký nhận.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bảng chi tiết cước phí -->
+    <div class="bg-white p-4 rounded-3 shadow-sm border">
+        <h4 class="fw-bold mb-3"><i class="bi bi-table me-2 text-primary"></i>Bảng Phí Vận Chuyển Chi Tiết</h4>
+        <div class="table-responsive">
+            <table class="table table-bordered align-middle">
+                <thead class="table-light">
+                    <tr>
+                        <th>Khu vực giao hàng</th>
+                        <th>Đơn hàng < 2.000.000đ</th>
+                        <th>Đơn hàng ≥ 2.000.000đ</th>
+                        <th>Thời gian dự kiến</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Nội thành TP.HCM</strong></td>
+                        <td>30.000 VNĐ</td>
+                        <td><span class="badge bg-success">Miễn phí</span></td>
+                        <td>2 - 4 giờ</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Ngoại thành & Các tỉnh</strong></td>
+                        <td>45.000 VNĐ</td>
+                        <td><span class="badge bg-success">Miễn phí</span></td>
+                        <td>2 - 3 ngày</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

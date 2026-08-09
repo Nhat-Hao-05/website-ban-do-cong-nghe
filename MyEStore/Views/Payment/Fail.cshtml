@@ -1,0 +1,54 @@
+﻿@model MyEStore.Models.ViewModels.PaypalTransactionViewModel
+
+@{
+    ViewBag.Title = "Thanh toán thất bại";
+    // Xác định nguồn gốc lỗi từ URL hoặc Model
+    var paymentMethod = Context.Request.Path.Value.Contains("VnPay", StringComparison.OrdinalIgnoreCase) ? "VNPay" : "PayPal";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg border-0 rounded-4">
+                <div class="card-header bg-danger text-white text-center py-4 rounded-top-4">
+                    <i class="bi bi-x-circle-fill display-3"></i>
+                    <h2 class="mt-2">Thanh toán thất bại</h2>
+                </div>
+                <div class="card-body text-center p-5">
+                    <div class="mb-4">
+                        <p class="fs-5">
+                            <strong>Cổng thanh toán:</strong>
+                            <span class="@(paymentMethod == "PayPal" ? "text-primary" : "text-info")">@paymentMethod</span>
+                        </p>
+                        <p class="fs-5">
+                            <strong>Mã đơn hàng:</strong>
+                            <span class="text-dark fw-bold">@(Model?.OrderId ?? "N/A")</span>
+                        </p>
+                    </div>
+
+                    <div class="alert alert-warning border-0 bg-light text-dark p-4 rounded-3 mb-4">
+                        <p class="mb-0">
+                            <i class="bi bi-exclamation-triangle-fill text-warning me-2"></i>
+                            Rất tiếc, giao dịch của bạn chưa được hoàn tất hoặc đã bị hủy.<br />
+                            <strong>Lưu ý:</strong> Tiền trong tài khoản của bạn vẫn chưa bị trừ.
+                        </p>
+                    </div>
+
+                    <div class="d-flex justify-content-center gap-3">
+                        <a asp-controller="Cart" asp-action="Index" class="btn btn-danger btn-lg rounded-pill px-4">
+                            <i class="bi bi-arrow-left"></i> Thử lại giỏ hàng
+                        </a>
+                        <a asp-controller="Products" asp-action="Index" class="btn btn-outline-secondary btn-lg rounded-pill px-4">
+                            Tiếp tục mua sắm
+                        </a>
+                    </div>
+                </div>
+                <div class="card-footer text-center bg-light border-0 py-3 rounded-bottom-4">
+                    <small class="text-muted">
+                        Cần hỗ trợ? Gọi hotline: <strong class="text-dark">1900 xxxx</strong> hoặc Chat với chúng tôi.
+                    </small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

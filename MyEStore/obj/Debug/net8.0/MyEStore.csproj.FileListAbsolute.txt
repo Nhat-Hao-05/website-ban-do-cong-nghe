@@ -1,0 +1,1017 @@
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.Development.json
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.json
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.runtime.json
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.exe
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.deps.json
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.runtimeconfig.json
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.pdb
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Core.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Identity.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Humanizer.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.CodeDom.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ec21bitv01\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.AssemblyReference.cache
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfoInputs.cache
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfo.cs
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.CoreCompileInputs.cache
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.MvcApplicationPartsAssemblyInfo.cache
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cache
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cs
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.sourcelink.json
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.development.json
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets\msbuild.MyEStore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets\msbuild.build.MyEStore.props
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyEStore.props
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyEStore.props
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.pack.json
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\bundle\MyEStore.styles.css
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\projectbundle\MyEStore.bundle.scp.css
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.CopyComplete
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.dll
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\refint\MyEStore.dll
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.pdb
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.genruntimeconfig.cache
+E:\ec21bitv01\MyEStore\MyEStore\obj\Debug\net8.0\ref\MyEStore.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cache
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cs
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.runtime.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.endpoints.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.exe
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.deps.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.runtimeconfig.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.pdb
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\bundle\MyEStore.styles.css
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\projectbundle\MyEStore.bundle.scp.css
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.Up2Date
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\refint\MyEStore.dll
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.pdb
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\ref\MyEStore.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.exe
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.pdb
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\bundle\MyEStore.styles.css
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\projectbundle\MyEStore.bundle.scp.css
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.Up2Date
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\refint\MyEStore.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.pdb
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\ref\MyEStore.dll
+C:\Users\ASUS\OneDrive\Máy tính\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.sourcelink.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.sourcelink.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.exe
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.deps.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.pdb
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\bundle\MyEStore.styles.css
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\projectbundle\MyEStore.bundle.scp.css
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.Up2Date
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\refint\MyEStore.dll
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.pdb
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Attachments\MyEStore_Init\MyEStore\MyEStore\obj\Debug\net8.0\ref\MyEStore.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.Development.json
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.json
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.runtime.json
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.endpoints.json
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.exe
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.deps.json
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.runtimeconfig.json
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.pdb
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Core.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Identity.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Humanizer.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.CodeDom.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Memory.Data.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.AssemblyReference.cache
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfoInputs.cache
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfo.cs
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.CoreCompileInputs.cache
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.MvcApplicationPartsAssemblyInfo.cache
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cache
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cs
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\bundle\MyEStore.styles.css
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\projectbundle\MyEStore.bundle.scp.css
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\swae.build.ex.cache
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.Up2Date
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\refint\MyEStore.dll
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.pdb
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.genruntimeconfig.cache
+D:\VS code\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\ref\MyEStore.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.Development.json
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.json
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.runtime.json
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.endpoints.json
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.exe
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.deps.json
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.runtimeconfig.json
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.pdb
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Core.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Identity.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Humanizer.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.CodeDom.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.AssemblyReference.cache
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfoInputs.cache
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfo.cs
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.CoreCompileInputs.cache
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cache
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cs
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\bundle\MyEStore.styles.css
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\projectbundle\MyEStore.bundle.scp.css
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.Up2Date
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\refint\MyEStore.dll
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.pdb
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.genruntimeconfig.cache
+D:\ASP\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\ref\MyEStore.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.Development.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\appsettings.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.runtime.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.staticwebassets.endpoints.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.exe
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.deps.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.runtimeconfig.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\MyEStore.pdb
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Core.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Azure.Identity.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Humanizer.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.CodeDom.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Memory.Data.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.AssemblyReference.cache
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfoInputs.cache
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.AssemblyInfo.cs
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.CoreCompileInputs.cache
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.MvcApplicationPartsAssemblyInfo.cache
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cache
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.RazorAssemblyInfo.cs
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\bundle\MyEStore.styles.css
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\scopedcss\projectbundle\MyEStore.bundle.scp.css
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.development.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\swae.build.ex.cache
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.csproj.Up2Date
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\refint\MyEStore.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.pdb
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.genruntimeconfig.cache
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\ref\MyEStore.dll

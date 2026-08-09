@@ -1,0 +1,303 @@
+﻿@{
+    ViewBag.Title = "Đăng ký tài khoản";
+}
+
+<!-- Import Google Fonts & Icons -->
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+    :root {
+        --luxury-dark: #0f172a;
+        --luxury-accent: #1e5338; /* Xanh ngọc bảo cao cấp */
+        --luxury-accent-hover: #143825;
+        --luxury-bg: #f8fafc;
+        --luxury-text-sub: #64748b;
+    }
+
+    body {
+        background-color: var(--luxury-bg);
+        font-family: 'Plus Jakarta Sans', sans-serif;
+    }
+
+    .register-wrapper {
+        min-height: 90vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2.5rem 1rem;
+    }
+
+    .register-card {
+        border: 1px solid rgba(0, 0, 0, 0.05) !important;
+        border-radius: 20px !important;
+        background: #ffffff;
+        box-shadow: 0 20px 40px -15px rgba(15, 23, 42, 0.07) !important;
+        overflow: hidden;
+        width: 100%;
+        max-width: 800px;
+    }
+
+    /* Header */
+    .register-header {
+        text-align: center;
+        padding: 3rem 2rem 1.5rem 2rem;
+        background: linear-gradient(180deg, rgba(248, 250, 252, 0.8) 0%, rgba(255, 255, 255, 1) 100%);
+        border-bottom: 1px solid #f1f5f9;
+    }
+
+    .register-title {
+        font-family: 'Playfair Display', serif;
+        font-weight: 700;
+        font-size: 2.1rem;
+        color: var(--luxury-dark);
+        margin-bottom: 0.5rem;
+    }
+
+    .register-subtitle {
+        font-size: 0.9rem;
+        color: var(--luxury-text-sub);
+    }
+
+    /* Form & Inputs */
+    .input-label {
+        font-size: 0.75rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.8px;
+        color: #475569;
+        margin-bottom: 0.4rem;
+    }
+
+    .input-icon-wrapper {
+        position: relative;
+    }
+
+        .input-icon-wrapper i {
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #94a3b8;
+            font-size: 1.05rem;
+            transition: color 0.2s ease;
+            z-index: 5;
+        }
+
+    .form-control-luxury, .form-select-luxury {
+        border: 1px solid #e2e8f0;
+        border-radius: 10px !important;
+        padding: 0.75rem 1rem 0.75rem 2.8rem !important;
+        font-size: 0.925rem;
+        background-color: #f8fafc;
+        transition: all 0.25s ease;
+        color: #1e293b;
+    }
+
+        .form-control-luxury:focus, .form-select-luxury:focus {
+            background-color: #ffffff;
+            border-color: var(--luxury-accent);
+            box-shadow: 0 0 0 4px rgba(30, 83, 56, 0.12);
+            outline: none;
+        }
+
+            .form-control-luxury:focus + i {
+                color: var(--luxury-accent);
+            }
+
+    /* Custom Input File (Ảnh đại diện) */
+    .file-input-wrapper {
+        border: 1px dashed #cbd5e1;
+        border-radius: 10px;
+        padding: 0.6rem 1rem;
+        background-color: #f8fafc;
+        transition: all 0.25s ease;
+        display: flex;
+        align-items: center;
+        gap: 12px;
+    }
+
+        .file-input-wrapper:hover {
+            border-color: var(--luxury-accent);
+            background-color: #ffffff;
+        }
+
+        .file-input-wrapper input[type="file"] {
+            font-size: 0.85rem;
+            color: #64748b;
+        }
+
+            .file-input-wrapper input[type="file"]::-webkit-file-upload-button {
+                background-color: var(--luxury-dark);
+                color: #ffffff;
+                border: none;
+                padding: 0.4rem 0.8rem;
+                border-radius: 6px;
+                font-size: 0.78rem;
+                font-weight: 600;
+                cursor: pointer;
+                margin-right: 10px;
+                transition: background 0.2s;
+            }
+
+                .file-input-wrapper input[type="file"]::-webkit-file-upload-button:hover {
+                    background-color: var(--luxury-accent);
+                }
+
+    /* Button */
+    .btn-luxury-submit {
+        background-color: var(--luxury-accent);
+        color: #ffffff;
+        border: none;
+        border-radius: 10px;
+        padding: 0.85rem;
+        font-weight: 600;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        font-size: 0.85rem;
+        transition: all 0.3s ease;
+    }
+
+        .btn-luxury-submit:hover {
+            background-color: var(--luxury-accent-hover);
+            color: #ffffff;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(30, 83, 56, 0.2);
+        }
+
+    .register-footer {
+        padding: 1.5rem;
+        background-color: #f8fafc;
+        border-top: 1px solid #f1f5f9;
+        text-align: center;
+        font-size: 0.875rem;
+    }
+
+    .luxury-link {
+        color: var(--luxury-accent);
+        text-decoration: none;
+        font-weight: 600;
+        transition: color 0.2s;
+    }
+
+        .luxury-link:hover {
+            color: var(--luxury-dark);
+            text-decoration: underline;
+        }
+</style>
+
+<div class="container register-wrapper">
+    <div class="card register-card">
+
+        <!-- Header -->
+        <div class="register-header">
+            <h2 class="register-title">Đăng Ký Tài Khoản</h2>
+            <p class="register-subtitle">Trở thành thành viên để nhận ngay trải nghiệm mua sắm đẳng cấp</p>
+        </div>
+
+        <!-- Form Body -->
+        <div class="card-body p-4 p-md-5">
+            <form asp-controller="Account" asp-action="Register" method="post" enctype="multipart/form-data">
+
+                <!-- HÀNG 1: Họ tên & Giới tính -->
+                <div class="row g-3 mb-3">
+                    <div class="col-md-7">
+                        <label class="form-label input-label">Họ và tên</label>
+                        <div class="input-icon-wrapper">
+                            <input name="hoTen" type="text" class="form-control form-control-luxury" placeholder="Nguyễn Văn A" required />
+                            <i class="bi bi-person"></i>
+                        </div>
+                    </div>
+                    <div class="col-md-5">
+                        <label class="form-label input-label">Giới tính</label>
+                        <div class="input-icon-wrapper">
+                            <select name="gioiTinh" class="form-select form-select-luxury">
+                                <option value="Nam">Nam</option>
+                                <option value="Nữ">Nữ</option>
+                                <option value="Khác">Khác</option>
+                            </select>
+                            <i class="bi bi-gender-ambiguous"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- HÀNG 2: Ngày sinh & Số điện thoại -->
+                <div class="row g-3 mb-3">
+                    <div class="col-md-6">
+                        <label class="form-label input-label">Ngày sinh</label>
+                        <div class="input-icon-wrapper">
+                            <input name="ngaySinh" type="date" class="form-control form-control-luxury" required />
+                            <i class="bi bi-calendar-event"></i>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label input-label">Điện thoại</label>
+                        <div class="input-icon-wrapper">
+                            <input name="dienThoai" type="tel" class="form-control form-control-luxury" placeholder="0901 234 567" required />
+                            <i class="bi bi-telephone"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- HÀNG 3: Email & Mật khẩu -->
+                <div class="row g-3 mb-3">
+                    <div class="col-md-6">
+                        <label class="form-label input-label">Địa chỉ Email</label>
+                        <div class="input-icon-wrapper">
+                            <input name="email" type="email" class="form-control form-control-luxury" placeholder="name@example.com" required />
+                            <i class="bi bi-envelope"></i>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <label class="form-label input-label">Mật khẩu</label>
+                        <div class="input-icon-wrapper">
+                            <input name="matKhau" type="password" class="form-control form-control-luxury" placeholder="••••••••" required />
+                            <i class="bi bi-lock"></i>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- HÀNG 4: Địa chỉ -->
+                <div class="mb-3">
+                    <label class="form-label input-label">Địa chỉ giao hàng</label>
+                    <div class="input-icon-wrapper">
+                        <input name="diaChi" type="text" class="form-control form-control-luxury" placeholder="Số nhà, tên đường, phường/xã, quận/huyện..." required />
+                        <i class="bi bi-geo-alt"></i>
+                    </div>
+                </div>
+
+                <!-- HÀNG 5: Ảnh đại diện -->
+                <div class="mb-4">
+                    <label class="form-label input-label">Ảnh đại diện</label>
+                    <div class="file-input-wrapper">
+                        <i class="bi bi-image text-muted fs-5"></i>
+                        <input name="anhDaiDien" type="file" class="form-control-file border-0 w-100" accept="image/*" />
+                    </div>
+                </div>
+
+                <!-- Nút Đăng ký -->
+                <div class="d-grid mt-4">
+                    <button type="submit" class="btn btn-luxury-submit">
+                        <i class="bi bi-person-plus me-1"></i> Đăng Ký Tài Khoản
+                    </button>
+                </div>
+
+                <!-- Thông báo lỗi nếu có -->
+                @if (ViewBag.Error != null)
+                {
+                    <div class="alert alert-danger border-0 mt-3 text-center" style="background-color: #fef2f2; color: #991b1b; border-radius: 10px; font-size: 0.875rem;">
+                        <i class="bi bi-exclamation-circle me-1"></i> @ViewBag.Error
+                    </div>
+                }
+            </form>
+        </div>
+
+        <!-- Footer Đăng nhập -->
+        <div class="register-footer">
+            <p class="mb-0 text-muted">
+                Đã có tài khoản?
+                <a asp-controller="Account" asp-action="Login" class="luxury-link ms-1">Đăng nhập ngay</a>
+            </p>
+        </div>
+
+    </div>
+</div>
