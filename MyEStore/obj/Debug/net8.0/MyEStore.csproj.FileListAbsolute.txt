@@ -1015,3 +1015,4 @@ D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\refint\MyEStore.dll
 D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.pdb
 D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.genruntimeconfig.cache
 D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\ref\MyEStore.dll
+D:\packet trace\MyEStore\MyEStore\MyEStore\obj\Debug\net8.0\MyEStore.sourcelink.json

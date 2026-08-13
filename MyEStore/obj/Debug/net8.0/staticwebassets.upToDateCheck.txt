@@ -82,6 +82,7 @@ wwwroot\Hinh\HangHoa\91JUBDf1jTL._AA1500_.jpg
 wwwroot\Hinh\HangHoa\91T2BjUkYmL._SL1500_.jpg
 wwwroot\Hinh\HangHoa\Camera1.jpg
 wwwroot\Hinh\HangHoa\Màn hình DHCP ở máy chủ .png
+wwwroot\Hinh\HangHoa\Screenshot 2026-08-09 222835.png
 wwwroot\Hinh\HangHoa\To.gif
 wwwroot\Hinh\icons\Accept.png
 wwwroot\Hinh\icons\Add to basket.png
