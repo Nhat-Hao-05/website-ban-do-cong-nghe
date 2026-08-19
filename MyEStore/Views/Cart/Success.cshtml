@@ -80,7 +80,7 @@
                 <div><strong>Địa chỉ:</strong> @Model.DiaChi</div>
             </div>
             <div class="col-6 text-end">
-                <div><strong>Ngày đặt:</strong> @Model.NgayDat.ToString("dd/MM/yyyy HH:mm")</div>
+                <div><strong>Ngày đặt:</strong> @($"{Model.NgayDat:dd/MM/yyyy HH:mm}")</div>
                 <div><strong>Ghi chú:</strong> @Model.GhiChu</div>
             </div>
         </div>

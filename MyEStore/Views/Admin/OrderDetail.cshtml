@@ -1,0 +1,67 @@
+﻿@model MyEStore.Entities.HoaDon
+@{
+    Layout = "_LayoutAdmin";
+    ViewBag.Title = "Chi tiết đơn hàng #" + Model.MaHd;
+    var tongTienHang = Model.ChiTietHds.Sum(ct => ct.DonGia * ct.SoLuong);
+    var tongThanhToan = tongTienHang + Model.PhiVanChuyen;
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <!-- Thông tin đơn hàng & Người nhận -->
+        <div class="col-md-5">
+            <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                    <h6 class="m-0 font-weight-bold text-primary">Thông tin đơn hàng #@Model.MaHd</h6>
+                </div>
+                <div class="card-body">
+                    <p><strong>Người nhận:</strong> @Model.HoTen</p>
+                    <p><strong>Địa chỉ giao:</strong> @Model.DiaChi</p>
+                    <p><strong>Ngày đặt:</strong> @(Model.NgayDat.HasValue ? Model.NgayDat.Value.ToString("dd/MM/yyyy HH:mm") : "")</p>
+                    <p><strong>Thanh toán:</strong> @Model.CachThanhToan</p>
+                    <p><strong>Vận chuyển:</strong> @Model.CachVanChuyen (@((Model.PhiVanChuyen ?? 0).ToString("#,##0 VNĐ")))</p>
+                    <p><strong>Ghi chú:</strong> @(Model.GhiChu ?? "Không có")</p>
+                    <hr />
+                    <p><strong>Tổng tiền hàng:</strong> @tongTienHang.ToString("#,##0 VNĐ")</p>
+                   
+                    <p class="h5 text-danger font-weight-bold">
+                       
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Danh sách sản phẩm mua -->
+        <div class="col-md-7">
+            <div class="card shadow mb-4">
+                <div class="card-header py-3">
+                    <h6 class="m-0 font-weight-bold text-primary">Sản phẩm đã đặt</h6>
+                </div>
+                <div class="card-body">
+                    <table class="table table-bordered align-middle">
+                        <thead class="table-light">
+                            <tr>
+                                <th>Sản phẩm</th>
+                                <th>Đơn giá</th>
+                                <th>Số lượng</th>
+                                <th>Thành tiền</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var ct in Model.ChiTietHds)
+                            {
+                                <tr>
+                                    <td>@ct.MaHhNavigation?.TenHh</td>
+                                    <td>@ct.DonGia.ToString("#,##0 VNĐ")</td>
+                                    <td>@ct.SoLuong</td>
+                                    <td>@((ct.DonGia * ct.SoLuong).ToString("#,##0 VNĐ"))</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <a asp-action="ManagerOrders" class="btn btn-secondary mt-2">← Quay lại danh sách</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

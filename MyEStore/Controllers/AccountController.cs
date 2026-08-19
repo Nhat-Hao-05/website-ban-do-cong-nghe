@@ -22,7 +22,7 @@ namespace MyEStore.Controllers
 
         #region Đăng Nhập
 
-        // 🔴 1. HÀM MỞ GIAO DIỆN ĐĂNG NHẬP (Cần hàm này để hết lỗi 405)
+        // 🔴 1. HÀM MỞ GIAO DIỆN ĐĂNG NHẬP 
         [AllowAnonymous]
         [HttpGet]
         public IActionResult Login(string? ReturnUrl)
@@ -184,9 +184,9 @@ namespace MyEStore.Controllers
             // 2. Tạo RandomKey (Salt) 8 ký tự
             string randomKey = Guid.NewGuid().ToString("N").Substring(0, 8);
 
-            // 3. Mã hóa Mật khẩu bằng SHA512 + RandomKey (Trùng khớp 100% logic hàm Login)
+            // 3. Mã hóa Mật khẩu bằng SHA512 + RandomKey 
             string hashedResult;
-            // Thay SHA512 bằng MD5 để ra chuỗi 32 ký tự
+            
             using (var sha512 = SHA512.Create())
             {
                 byte[] inputBytes = Encoding.UTF8.GetBytes(matKhau + randomKey);

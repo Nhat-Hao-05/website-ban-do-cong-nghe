@@ -1,0 +1,60 @@
+﻿@model IEnumerable<MyEStore.Entities.HoaDon>
+@{
+    Layout = "_LayoutAdmin";
+    ViewBag.Title = "Quản lý đơn hàng";
+}
+
+<div class="container-fluid">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Danh sách đơn hàng</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered align-middle" width="100%" cellspacing="0">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Mã ĐH</th>
+                            <th>Người nhận</th>
+                            <th>Ngày đặt</th>
+                            <th>Thanh toán</th>
+                            <th>Tổng tiền</th>
+                            <th>Trạng thái</th>
+                            <th>Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            // Ép giá trị về 0 nếu dính NULL để tính toán an toàn
+                            var tongTien = item.ChiTietHds.Sum(ct => (ct.DonGia  ) * (ct.SoLuong  )) + (item.PhiVanChuyen ?? 0);
+
+                            <tr>
+                                <td><strong>#@item.MaHd</strong></td>
+                                <td>
+                                    <strong>@item.HoTen</strong><br />
+                                    <small class="text-muted">@item.DiaChi</small>
+                                </td>
+                                <td>@(item.NgayDat?.ToString("dd/MM/yyyy HH:mm") ?? "")</td>
+                                <td><span class="badge bg-secondary">@item.CachThanhToan</span></td>
+                                <td class="text-danger font-weight-bold">
+                                    @tongTien.ToString("#,##0 VNĐ")
+                                </td>
+                                <td>
+                                    <span class="badge bg-info text-dark">
+                                        @(item.MaTrangThaiNavigation?.TenTrangThai ?? "Đang xử lý")
+                                    </span>
+                                </td>
+                                <td>
+                                    <a asp-action="OrderDetail" asp-route-id="@item.MaHd" class="btn btn-sm btn-primary">
+                                        🔍 Chi tiết
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

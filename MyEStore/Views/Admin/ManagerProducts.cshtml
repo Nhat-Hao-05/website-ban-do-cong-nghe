@@ -29,8 +29,15 @@
                         foreach (var item in Model)
                         {
                             <tr>
-                                <td class="text-center">
-                                    <img src="~/Hinh/HangHoa/@item.Hinh" style="width:50px; height:50px; object-fit:cover;" class="rounded" />
+                                <td>
+                                    @if (!string.IsNullOrEmpty(item.Hinh) && (item.Hinh.StartsWith("http://") || item.Hinh.StartsWith("https://")))
+                                    {
+                                        <img src="@item.Hinh" style="width: 60px; height: 60px; object-fit: cover;" class="img-thumbnail" />
+                                    }
+                                    else
+                                    {
+                                        <img src="~/Hinh/HangHoa/@item.Hinh" style="width: 60px; height: 60px; object-fit: cover;" class="img-thumbnail" />
+                                    }
                                 </td>
                                 <td>@item.TenHh</td>
                                 <td>@item.DonGia.ToString("#,##0") đ</td>

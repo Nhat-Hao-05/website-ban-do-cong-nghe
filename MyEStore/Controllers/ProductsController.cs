@@ -93,7 +93,7 @@ namespace MyEStore.Controllers
             return View();
         }
 
-        // Action xử lý khi bấm chọn danh mục từ Menu (Dạng: /Products/Category/1001)
+        // Action xử lý khi bấm chọn danh mục từ Menu 
         public IActionResult Category(int id)
         {
             var dsSanPham = _ctx.HangHoas

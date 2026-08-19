@@ -1,0 +1,37 @@
+# Product Backlog - VH-EStore
+
+## Thông tin dự án
+* **Tên dự án:** Hệ thống bán hàng trực tuyến VH-EStore
+* **Nhóm thực hiện:** 
+  1. Lê Nhật Hào (MSSV: 2311556768)
+  2. Võ Duy Phú (MSSV: 2311556964)
+  3. Nguyễn Tú Quyên (MSSV: 2311552917)
+  4. Nguyễn Anh Tuấn (MSSV: 2311559121)
+
+---
+
+## Danh sách Danh mục Epic
+* **E01:** Quản lý sản phẩm
+* **E02:** Quản lý tài khoản khách hàng
+* **E03:** Giỏ hàng và đặt hàng
+* **E04:** Quản lý đơn hàng
+* **E05:** Quản trị sản phẩm & danh mục
+* **E06:** Quản lý nhân viên & phân quyền
+
+---
+
+## Danh sách Product Backlog Items (PBI)
+| ID | Title | Epic | Priority | Story Points | Sprint | Status |
+|---|---|---|---|---|---|---|
+| US001 | Xem danh sách sản phẩm | Quản lý sản phẩm | Must-be | 3 | 1 | Done |
+| US002 | Xem chi tiết sản phẩm | Quản lý sản phẩm | Must-be | 3 | 1 | Done |
+| US003 | Tìm kiếm sản phẩm | Quản lý sản phẩm | Performance | 5 | 1 | Done |
+| US004 | Lọc sản phẩm theo loại hàng | Quản lý sản phẩm | Performance | 3 | 1 | Done |
+| US005 | Xem sản phẩm nổi bật | Quản lý sản phẩm | Attractive | 2 | 1 | Done |
+| US006 | Đăng ký tài khoản | Quản lý tài khoản | Must-be | 5 | 1 | Done |
+| US007 | Đăng nhập hệ thống | Quản lý tài khoản | Must-be | 3 | 1 | Done |
+| US008 | Cập nhật thông tin cá nhân | Quản lý tài khoản | Performance | 3 | 2 | In Progress |
+| US009 | Khôi phục mật khẩu | Quản lý tài khoản | Must-be | 3 | 2 | In Progress |
+| US010 | Thêm sản phẩm yêu thích | Phản hồi & yêu thích | Attractive | 2 | 2 | In Progress |
+| US012 | Thêm sản phẩm vào giỏ hàng | Giỏ hàng & đặt hàng | Must-be | 5 | 2 | In Progress |
+| US013 | Cập nhật số lượng giỏ hàng | Giỏ hàng & đặt hàng | Performance | 3 | 2 | In Progress |

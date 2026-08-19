@@ -183,5 +183,44 @@ namespace MyEStore.Controllers
                 return View(model);
             }
         }
+        // 1. Danh sách tất cả đơn hàng
+        public IActionResult ManagerOrders()
+        {
+            var dsDonHang = _ctx.HoaDons
+                .Include(dh => dh.ChiTietHds)
+                .Include(dh => dh.MaTrangThaiNavigation)
+                .OrderByDescending(dh => dh.NgayDat)
+                .ToList();
+
+            return View(dsDonHang);
+        }
+
+        // 2. Xem chi tiết 1 đơn hàng
+        public IActionResult OrderDetail(int id)
+        {
+            var donHang = _ctx.HoaDons
+                .Include(dh => dh.ChiTietHds) // Hoặc ChiTietDhs
+                    .ThenInclude(ct => ct.MaHhNavigation)
+                .FirstOrDefault(dh => dh.MaHd == id);
+
+            if (donHang == null) return NotFound();
+
+            return View(donHang);
+        }
+
+        // 3. Cập nhật trạng thái
+        [HttpPost]
+        public IActionResult UpdateOrderStatus(int maHd, int maTrangThai)
+        {
+            var donHang = _ctx.HoaDons.Find(maHd);
+            if (donHang != null)
+            {
+                donHang.MaTrangThai = maTrangThai;
+                _ctx.SaveChanges();
+                TempData["Message"] = "Cập nhật trạng thái thành công!";
+            }
+            return RedirectToAction("OrderDetail", new { id = maHd });
+        }
+        
     }
 }
