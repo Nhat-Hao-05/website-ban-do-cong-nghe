@@ -104,9 +104,11 @@ namespace MyEStore.Controllers
                 NgayDat = DateTime.Now,
                 NgayCan = DateTime.Now.AddDays(3),
                 MaTrangThai = 0,
-                GhiChu = $"SĐT: {dienThoai} | Ghi chú: {ghiChu}"
-            };
+                GhiChu = $"SĐT: {dienThoai} | Ghi chú: {ghiChu}",
 
+                // 🔥 Thêm đúng dòng này để SQL Server không bị lỗi NULL:
+                PhiVanChuyen = 0
+            };
             using (var transaction = await _ctx.Database.BeginTransactionAsync())
             {
                 try

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\packet trace\\MyEStore\\MyEStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\packet trace\\myestore\\myestore\\myestore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|solutionrelative:myestore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\packet trace\\myestore\\myestore\\myestore\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|solutionrelative:myestore\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\packet trace\\myestore\\myestore\\myestore\\views\\admin\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|solutionrelative:myestore\\views\\admin\\orderdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -57,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\packet trace\\myestore\\myestore\\myestore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|solutionrelative:myestore\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\packet trace\\myestore\\myestore\\myestore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|solutionrelative:myestore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\packet trace\\myestore\\myestore\\myestore\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|solutionrelative:myestore\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE86A29C-E368-43D7-8144-47D455883BD1}|MyEStore\\MyEStore.csproj|d:\\packet trace\\myestore\\myestore\\myestore\\controllers\\vnpaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -182,7 +182,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -190,33 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HoaDon.cs",
-              "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Entities\\HoaDon.cs",
-              "RelativeDocumentMoniker": "MyEStore\\Entities\\HoaDon.cs",
-              "ToolTip": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Entities\\HoaDon.cs",
-              "RelativeToolTip": "MyEStore\\Entities\\HoaDon.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvysAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-14T04:26:33.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ManagerOrders.cshtml",
-              "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Admin\\ManagerOrders.cshtml",
-              "RelativeDocumentMoniker": "MyEStore\\Views\\Admin\\ManagerOrders.cshtml",
-              "ToolTip": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Admin\\ManagerOrders.cshtml",
-              "RelativeToolTip": "MyEStore\\Views\\Admin\\ManagerOrders.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-14T04:24:39.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "MyEStore\\Controllers\\AdminController.cs",
@@ -224,12 +198,11 @@
               "RelativeToolTip": "MyEStore\\Controllers\\AdminController.cs",
               "ViewState": "AgIAAJkAAAAAAAAAAAAnwLoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-08T12:36:50.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T12:36:50.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "OrderDetail.cshtml",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Admin\\OrderDetail.cshtml",
               "RelativeDocumentMoniker": "MyEStore\\Views\\Admin\\OrderDetail.cshtml",
@@ -242,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "DonHang.cshtml",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Cart\\DonHang.cshtml",
               "RelativeDocumentMoniker": "MyEStore\\Views\\Cart\\DonHang.cshtml",
@@ -250,12 +223,11 @@
               "RelativeToolTip": "MyEStore\\Views\\Cart\\DonHang.cshtml",
               "ViewState": "AgIAABoAAAAAAAAAAADwvxwAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-08T11:54:32.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T11:54:32.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Success.cshtml",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Cart\\Success.cshtml",
               "RelativeDocumentMoniker": "MyEStore\\Views\\Cart\\Success.cshtml",
@@ -263,12 +235,11 @@
               "RelativeToolTip": "MyEStore\\Views\\Cart\\Success.cshtml",
               "ViewState": "AgIAAD0AAAAAAAAAAAAAAFIAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-08T11:42:13.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T11:42:13.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TraCuu.cshtml",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Cart\\TraCuu.cshtml",
               "RelativeDocumentMoniker": "MyEStore\\Views\\Cart\\TraCuu.cshtml",
@@ -276,21 +247,57 @@
               "RelativeToolTip": "MyEStore\\Views\\Cart\\TraCuu.cshtml",
               "ViewState": "AgIAACAAAAAAAAAAAADwvy4AAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-08T11:58:31.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T11:58:31.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "CartController.cs",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "MyEStore\\Controllers\\CartController.cs",
               "ToolTip": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Controllers\\CartController.cs",
               "RelativeToolTip": "MyEStore\\Controllers\\CartController.cs",
-              "ViewState": "AgIAABEBAAAAAAAAAAAqwCwBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-03T07:31:24.929Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "MyEStore\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "MyEStore\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwIEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T07:31:24.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerOrders.cshtml",
+              "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Admin\\ManagerOrders.cshtml",
+              "RelativeDocumentMoniker": "MyEStore\\Views\\Admin\\ManagerOrders.cshtml",
+              "ToolTip": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Admin\\ManagerOrders.cshtml",
+              "RelativeToolTip": "MyEStore\\Views\\Admin\\ManagerOrders.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-14T04:24:39.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Entities\\HoaDon.cs",
+              "RelativeDocumentMoniker": "MyEStore\\Entities\\HoaDon.cs",
+              "ToolTip": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Entities\\HoaDon.cs",
+              "RelativeToolTip": "MyEStore\\Entities\\HoaDon.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvysAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T04:26:33.628Z"
             },
             {
               "$type": "Document",
@@ -302,12 +309,11 @@
               "RelativeToolTip": "MyEStore\\Controllers\\VnPayController.cs",
               "ViewState": "AgIAAKEAAAAAAAAAAAAQwEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T07:31:24.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T07:31:24.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "MyEStore\\Controllers\\AccountController.cs",
@@ -315,12 +321,11 @@
               "RelativeToolTip": "MyEStore\\Controllers\\AccountController.cs",
               "ViewState": "AgIAALQAAAAAAAAAAAAowLwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T07:31:24.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T07:31:24.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "MyEStore\\Views\\Shared\\_LayoutAdmin.cshtml",
@@ -328,21 +333,7 @@
               "RelativeToolTip": "MyEStore\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-14T04:32:43.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "MyEStore\\Controllers\\PaymentController.cs",
-              "ToolTip": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "MyEStore\\Controllers\\PaymentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T07:31:24.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-14T04:32:43.279Z"
             },
             {
               "$type": "Document",
@@ -358,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MyEStore\\Views\\Shared\\_Layout.cshtml",
@@ -366,12 +357,11 @@
               "RelativeToolTip": "MyEStore\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAEIBAAAAAAAAAAAqwFUBAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-06T13:06:11.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-06T13:06:11.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Admin\\Edit.cshtml",
               "RelativeDocumentMoniker": "MyEStore\\Views\\Admin\\Edit.cshtml",
@@ -379,8 +369,7 @@
               "RelativeToolTip": "MyEStore\\Views\\Admin\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-14T04:12:18.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-14T04:12:18.359Z"
             },
             {
               "$type": "Document",
@@ -392,12 +381,11 @@
               "RelativeToolTip": "MyEStore\\Program.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T07:31:24.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T07:31:24.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "MyEStore\\Views\\Account\\Login.cshtml",
@@ -405,12 +393,11 @@
               "RelativeToolTip": "MyEStore\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAALQAAAAAAAAAAAAAAM0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-03T08:34:30.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T08:34:30.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ManagerProducts.cshtml",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Views\\Admin\\ManagerProducts.cshtml",
               "RelativeDocumentMoniker": "MyEStore\\Views\\Admin\\ManagerProducts.cshtml",
@@ -418,12 +405,11 @@
               "RelativeToolTip": "MyEStore\\Views\\Admin\\ManagerProducts.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-08T12:59:45.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T12:59:45.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\packet trace\\MyEStore\\MyEStore\\MyEStore\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "MyEStore\\Controllers\\ProductsController.cs",
@@ -431,8 +417,7 @@
               "RelativeToolTip": "MyEStore\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAqwF8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-08T10:29:32.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-08T10:29:32.859Z"
             },
             {
               "$type": "Document",
